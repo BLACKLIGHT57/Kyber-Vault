@@ -1,3 +1,4 @@
+# Зависимости: pip install cryptography
 import tkinter as tk
 from tkinter import ttk, messagebox
 import threading, os, sys
