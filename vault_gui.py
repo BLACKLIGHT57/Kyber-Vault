@@ -1,9 +1,3 @@
-"""
-Kyber Vault — Tkinter интерфейс
-Запуск: python vault_gui.py
-Зависимости: pip install cryptography
-"""
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 import threading, os, sys
