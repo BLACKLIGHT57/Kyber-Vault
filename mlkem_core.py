@@ -1,8 +1,3 @@
-"""
-ML-KEM (Kyber-512) — чистая реализация на Python
-FIPS 203 / CRYSTALS-Kyber spec
-"""
-
 import os, hashlib
 from typing import Tuple
 
